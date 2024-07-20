@@ -10,3 +10,9 @@ public class Main {
 		SpringApplication.run(Main.class, args);
 	}
 }
+/* HOW TO START:
+	1. Terminal: cd src/main
+				 npx create-react-app frontend
+				 cd frontend/
+				 npm start
+ */
