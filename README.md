@@ -1,4 +1,4 @@
-### 📌 An application that allows the user uppload and retrieve photos through web interface
+### 📌 An application that allows the user to upload and retrieve photos through the web interface
  - ***Technologies:*** Java, React, AWS
  
    
